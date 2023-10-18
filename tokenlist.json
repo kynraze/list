@@ -1,0 +1,62 @@
+{
+    "name": "KYN token List",
+    "logoURI": "ipfs://QmeZKWC6M56sJSZGUcSW59vY99HNVj9C6NJcu5mqPp4MPH/kynraze.png",
+    "keywords": [
+        "audited",
+        "verified",
+        "lending",
+        "kyn"
+    ],
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset"
+        },
+        "kyntokens": {
+            "name": "Kyn Tokens V1",
+            "description": "Tokens that earn interest on the Kyn Protocol V1"
+        },
+        "rollapp": {
+            "name": "Rollapp Tokens",
+            "description": "Tokens from other rollapps"
+        }
+    },
+    "tokens": [
+        {
+            "name": "Pokemon",
+            "decimals": 18,
+            "symbol": "PKMN",
+            "address": "0x5d072D5F9c52a57C9dCa46a47B7887C5e00E2B2D",
+            "chainId": 214,
+            "logoURI": "ipfs://QmWW4DWjLKbnGsTEszT1wD1J3UnL56kHnWbQFGaLbXys56/PKMN.png",
+            "tags": [
+                "kyntokens"
+            ]
+        },
+        {
+            "name": "Wrapped KYN",
+            "decimals": 18,
+            "symbol": "WKYN",
+            "address": "0x3Aec630abf594E8d833ED34AA617A95200f93eBB",
+            "chainId": 214,
+            "logoURI": "ipfs://QmeZKWC6M56sJSZGUcSW59vY99HNVj9C6NJcu5mqPp4MPH/kynraze.png"
+        },
+        {
+            "name": "SBB Modular",
+            "decimals": 18,
+            "symbol": "MOD",
+            "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+            "chainId": 214,
+            "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/myrollapp_160-1/logos/myrollapp_160-1.png",
+            "tags": [
+                "rollapp"
+            ]
+        }
+    ],
+    "timestamp": "2023-10-14T17:08:18.941Z",
+    "version": {
+        "major": 1,
+        "minor": 3,
+        "patch": 0
+    }
+}
