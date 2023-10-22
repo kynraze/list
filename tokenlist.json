@@ -51,6 +51,17 @@
             "tags": [
                 "rollapp"
             ]
+        },
+        {
+            "name": "Escan",
+            "decimals": 18,
+            "symbol": "ESCAN",
+            "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+            "chainId": 214,
+            "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/escan_8545-1/logos/escan_8545-1.png",
+            "tags": [
+                "rollapp"
+            ]
         }
     ],
     "timestamp": "2023-10-14T17:08:18.941Z",
